@@ -11,7 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     private void testPush(){
-       int i = 1;
-    }//Test 1
+        int i = 1;
+        int ii = 2;
+        int iii = i+ii;
+    }//Test 2
 
 }
